@@ -70,4 +70,4 @@ Developed by [Armen Balagyozyan](https://github.com/gaxkalik) — feel free to c
 ---
 
 ## Contact
-For questions, email [gaxkalik@gmail.com](gaxkalik@gmail.com).
+For questions, email [gaxkalik@gmail.com](mailto:gaxkalik@gmail.com).
